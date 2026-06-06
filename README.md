@@ -1,7 +1,7 @@
 # 👥 HR Analytics Dashboard | Employee
 
 # Attrition Analysis
-![Attrition Analysis][hr_analytics_dashboard.png]
+![Attrition Analysis][hr_analytics_dashboards.png]
 
 ### 📌 One-Line Summary
 Interactive HR dashboard analyzing 1470 employees to identify attrition drivers.  
